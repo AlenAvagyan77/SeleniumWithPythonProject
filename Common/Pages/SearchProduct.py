@@ -15,7 +15,7 @@ class SearchProductClass(BasePageClass):
     def input_product(self):
         self.logger.add_log("INFO", "Called input_product method")
         inputProduct = self.find.custom_find(self.locator.inputProduct)
-        inputProduct.send_keys("AGV Helmet")
+        inputProduct.send_keys("AGV K1 Helmet (Large)")
 
     def click_button(self):
         self.logger.add_log("INFO", "Called click_button method")

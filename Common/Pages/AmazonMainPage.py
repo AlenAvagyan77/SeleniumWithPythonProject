@@ -1,6 +1,7 @@
 from Common.Locator import Locator
 from Common.Pages.BasePage import BasePageClass
 
+
 class MainPageClass(BasePageClass):
     def __init__(self, driver):
         super().__init__(driver)
