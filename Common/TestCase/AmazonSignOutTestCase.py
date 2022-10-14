@@ -11,7 +11,6 @@ from Common.Pages import CartSectionPage
 from Common.Pages import ChangeName
 from Common.Pages import ProductQuantity
 from Common.Pages import SignOut
-from Common.Variables import Variables
 from Common.TestCase.BaseTest import BaseTestClass
 
 
@@ -46,6 +45,7 @@ class AllTest(BaseTestClass):
         self.PasswordPage.input_password()
         self.PasswordPage.press_into_keep_me_check_box()
         self.PasswordPage.sign_in_button()
+        time.sleep(10)
         self.SearchProduct.search_product()
         self.SearchProduct.input_product()
         time.sleep(0.5)
