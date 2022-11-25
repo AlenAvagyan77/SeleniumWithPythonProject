@@ -1,0 +1,37 @@
+14-10-2022 13:11:22 INFO _________________________________________________
+14-10-2022 13:11:22 INFO Starting Test Case AllTest
+14-10-2022 13:11:22 INFO _________________________________________________
+14-10-2022 13:11:22 INFO ====== WebDriver manager ======
+14-10-2022 13:11:22 INFO Current google-chrome version is 106.0.5249
+14-10-2022 13:11:22 INFO Get LATEST chromedriver version for 106.0.5249 google-chrome
+14-10-2022 13:11:22 INFO Driver [/home/alen/.wdm/drivers/chromedriver/linux64/106.0.5249.61/chromedriver] found in cache
+14-10-2022 13:11:27 INFO Called click_number_line method
+14-10-2022 13:11:28 INFO Called input_to_number method
+14-10-2022 13:11:28 INFO Called click_into_continue_button method
+14-10-2022 13:11:29 INFO Called click_password_linen method
+14-10-2022 13:11:29 INFO Called input_password method
+14-10-2022 13:11:29 INFO Called press_into_keep_me_check_box method
+14-10-2022 13:11:30 INFO Called sign_in_button method
+14-10-2022 13:11:40 INFO Called search_product method
+14-10-2022 13:11:40 INFO Called input_product method
+14-10-2022 13:11:41 INFO Called click_button method
+14-10-2022 13:11:46 INFO Called click_on_the_product method
+14-10-2022 13:11:55 INFO Called click_add_to_cart method
+25-11-2022 13:12:35 INFO _________________________________________________
+25-11-2022 13:12:35 INFO Starting Test Case AllTest
+25-11-2022 13:12:35 INFO _________________________________________________
+25-11-2022 13:12:35 INFO ====== WebDriver manager ======
+25-11-2022 13:12:35 INFO Current google-chrome version is 107.0.5304
+25-11-2022 13:12:35 INFO Get LATEST chromedriver version for 107.0.5304 google-chrome
+25-11-2022 13:12:35 INFO Driver [/home/alen/.wdm/drivers/chromedriver/linux64/107.0.5304.62/chromedriver] found in cache
+25-11-2022 13:12:41 INFO Called click_number_line method
+25-11-2022 13:12:43 INFO Called input_to_number method
+25-11-2022 13:12:43 INFO Called click_into_continue_button method
+25-11-2022 13:12:44 INFO Called click_password_linen method
+25-11-2022 13:12:44 INFO Called input_password method
+25-11-2022 13:12:44 INFO Called press_into_keep_me_check_box method
+25-11-2022 13:12:44 INFO Called sign_in_button method
+25-11-2022 13:12:54 INFO Called search_product method
+25-11-2022 13:12:55 INFO Called input_product method
+25-11-2022 13:12:55 INFO Called click_button method
+25-11-2022 13:12:59 INFO Called click_on_the_product method
